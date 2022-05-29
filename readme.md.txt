@@ -1,8 +1,12 @@
+
+APP P/ INSTALAR
 Prettier - Code formatter
 Omni Theme
 Material Icon Theme
 Live Server
 HTML Preview
+
+SETTINGS
 
 {
   "editor.fontSize": 16,
