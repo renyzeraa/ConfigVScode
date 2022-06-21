@@ -4,20 +4,29 @@ Prettier - Code formatter
 Omni Theme
 Material Icon Theme
 Live Server
-HTML Preview
+
 
 SETTINGS
 
 {
   "editor.fontSize": 16,
   "terminal.integrated.fontSize": 16,
-  "workbench.colorTheme": "Omni",
-  "workbench.iconTheme": "material-icon-theme",
+  "editor.lineHeight": 1.5,
   "editor.bracketPairColorization.enabled": true,
   "editor.minimap.enabled": false,
+  "editor.guides.bracketPairs":"active",
   "editor.wordWrap": "on",
+  "editor.minimap.renderCharacters": false,
+  "telemetry.telemetryLevel": "off",
+  "security.workspace.trust.untrustedFiles": "open",
+  "breadcrumbs.filePath": "off",
+  "outline.icons": false,
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 0,
+  "html.autoClosingTags": false,
   "workbench.editor.tabSizing": "shrink",
   "explorer.compactFolders": false,
+  "workbench.startupEditor": "newUntitledFile",
 
   // formatter
   "prettier.tabWidth": 2,
@@ -39,4 +48,6 @@ SETTINGS
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "material-icon-theme"
 }
