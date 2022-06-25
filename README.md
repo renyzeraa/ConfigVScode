@@ -1,9 +1,9 @@
 ### Extensions
 
-Prettier - Code formatter
-Omni Theme
-Material Icon Theme
-Live Server
+<h3>Prettier - Code formatter</h3>
+<h3>Omni Theme</h3>
+<h3>Material Icon Theme</h3>
+<h3>Live Server</h3>
 
 
 ### SETTINGS .json
