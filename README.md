@@ -1,4 +1,4 @@
-### Extensions
+# Extensions
 
 <h3>Prettier - Code formatter</h3>
 <h3>Omni Theme</h3>
@@ -6,7 +6,7 @@
 <h3>Live Server</h3>
 
 
-### SETTINGS .json
+# SETTINGS .json
 
 ```
 
