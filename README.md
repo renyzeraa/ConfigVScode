@@ -8,7 +8,9 @@ Live Server
 
 ### SETTINGS .json
 
-```{
+```
+
+{
   "editor.fontSize": 16,
   "terminal.integrated.fontSize": 16,
   "editor.lineHeight": 1.5,
