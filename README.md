@@ -4,6 +4,7 @@
 <h3>Omni Theme</h3>
 <h3>Material Icon Theme</h3>
 <h3>Live Server</h3>
+<h3>Color Highlight</h3>
 
 
 # SETTINGS .json
