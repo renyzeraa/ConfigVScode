@@ -17,7 +17,7 @@
   "editor.lineHeight": 1.5,
   "editor.bracketPairColorization.enabled": true,
   "editor.minimap.enabled": false,
-  "editor.guides.bracketPairs":"active",
+  "editor.guides.bracketPairs": "active",
   "editor.wordWrap": "on",
   "editor.minimap.renderCharacters": false,
   "telemetry.telemetryLevel": "off",
@@ -40,19 +40,19 @@
   "prettier.endOfLine": "auto",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
   "workbench.colorTheme": "Omni",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDelete": false,
+  "git.confirmSync": false
 }
+
 
 ```
