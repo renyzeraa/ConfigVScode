@@ -14,6 +14,7 @@
 {
   "editor.fontSize": 16,
   "terminal.integrated.fontSize": 16,
+  "editor.fontFamily": "IBM Plex Mono', monospace",
   "editor.lineHeight": 1.5,
   "editor.bracketPairColorization.enabled": true,
   "editor.minimap.enabled": false,
@@ -46,13 +47,16 @@
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Origamid",
+
   "workbench.iconTheme": "material-icon-theme",
   "explorer.confirmDragAndDrop": false,
   "git.enableSmartCommit": true,
   "explorer.confirmDelete": false,
-  "git.confirmSync": false
+  "git.confirmSync": false,
+  "window.menuBarVisibility": "compact"
 }
+
 
 
 ```
