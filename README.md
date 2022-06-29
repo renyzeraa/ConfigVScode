@@ -10,7 +10,6 @@
 # SETTINGS .json
 
 ```
-
 {
   "editor.fontSize": 16,
   "terminal.integrated.fontSize": 16,
@@ -56,8 +55,5 @@
   "git.confirmSync": false,
   "window.menuBarVisibility": "compact"
 }
-
-
-
 ```
 ### enjoy 😁
