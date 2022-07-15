@@ -6,14 +6,13 @@
 <h3>Live Server 🖥</h3>
 <h3>Color Highlight 🖌</h3>
 
-
 # SETTINGS .json
 
 ```
 {
   "editor.fontSize": 16,
   "terminal.integrated.fontSize": 16,
-  "editor.fontFamily": "IBM Plex Mono', monospace",
+  "editor.fontFamily": "IBM Plex Mono",
   "editor.lineHeight": 1.5,
   "editor.bracketPairColorization.enabled": true,
   "editor.minimap.enabled": false,
@@ -53,7 +52,10 @@
   "git.enableSmartCommit": true,
   "explorer.confirmDelete": false,
   "git.confirmSync": false,
-  "window.menuBarVisibility": "compact"
+  "window.menuBarVisibility": "compact",
+  "cSpell.ignoreWords": ["renyzeraa"]
 }
+
 ```
+
 ### enjoy 😁
