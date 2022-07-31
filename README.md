@@ -1,10 +1,11 @@
 # Extensions
 
-<h3>Prettier - Code formatter ✍️</h3>
-<h3>Origamid Theme ✨</h3>
-<h3>Material Icon Theme 🧰</h3>
-<h3>Live Server 🖥</h3>
-<h3>Color Highlight 🖌</h3>
+### Prettier - Code formatter ✍️
+### Origamid Theme & Bearded Theme ✨
+### Material Icon Theme 🧰
+### Live Server 🖥
+### Color Highlight 🖌
+### Tabnine AI Autocomplete for Javascript 🔧
 
 # SETTINGS .json
 
